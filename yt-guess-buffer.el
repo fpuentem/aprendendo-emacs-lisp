@@ -1,4 +1,3 @@
-;;; -*- lexical-binding: t -*-
 ;;; yt-guess-buffer.el -- Jogo da adivinhacao em buffer
 ;;
 ;;; Commentary:
